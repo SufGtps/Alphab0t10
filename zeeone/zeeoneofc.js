@@ -386,7 +386,7 @@ ${petik}│◦ ${prefix}off
 │◦ ${prefix}bcvideo
 │◦ ${prefix}bcaudio
 │◦ ${prefix}bcsticker
-│◦ ${prefix}virus1
+│◦ ${prefix}virus18
 │◦ ${prefix}virus2
 │◦ ${prefix}virus3
 │◦ ${prefix}virus4
