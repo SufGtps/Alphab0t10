@@ -1,5 +1,5 @@
 const petik = '```'
-const help = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)=> {
+const allmenu = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)=> {
 	return`┌❏ *INDONESIA TIME*
 ${petik}│◦➛ WIB : ${timuu}
 │◦➛ WITA : ${wita}
@@ -109,7 +109,7 @@ ${petik}├❒ ${prefix}otaku${petik} _query_
 ${petik}└❒ ${prefix}anime${petik} _random_
 `
 }
-const allmenu = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)  => {
+const help = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)  => {
 	return`❏───「 *ALPHA BOT* 」───❏
      
 ┌❏ *INDONESIA TIME*
@@ -672,7 +672,7 @@ ${petik}│◦ ${prefix}rikagusriani
 │
 └─❑「 MENU BOT 」
 
-❏───「 *ALPHA BOT* 」───❏
+❏───「 *SKPS BOT* 」───❏
 `
 }
 
